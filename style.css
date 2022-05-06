@@ -1,0 +1,10 @@
+body{
+    background-image :linear-gradient(red,yellow);}
+
+    #quick_time{
+        text-align: right;
+    }
+
+    #score{
+        text-align: left;
+    }
